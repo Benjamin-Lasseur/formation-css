@@ -1,0 +1,69 @@
+body {
+  background-color: #EFECCA;
+  font-family: arial;
+}
+
+h1 {
+  color:#C03000;
+  font-family: helvetica;
+}
+
+h2 {
+  color:#4BB5C1;
+  font-family: helvetica;
+}
+
+ul {
+  color: white;
+
+}
+
+li a:hover{
+  background-color: #009900;
+  text-decoration: underline;
+}
+
+li a{
+  text-align: center;
+  background-color: red;
+  padding: 10px;
+  margin: 10px;
+  list-style-type: none;
+  border: solid 1px;
+  border-color: #660000;
+  color:white;
+}
+
+a{
+  text-decoration: none;
+}
+li {
+  display: inline;
+}
+
+#contact{
+  font-weight: bold;
+}
+
+
+
+p {
+}
+
+.item {
+}
+
+input[type='text'] {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+}
+
+input[type='submit'] {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+}
+
+#itemField {
+  margin-top: 60px;
+  width: 10%;
+}
